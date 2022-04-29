@@ -1,0 +1,7 @@
+C:\Users\ma hmood\source\repos\addingMillions\addingMillions\bin\Debug\addingMillions.exe.config
+C:\Users\ma hmood\source\repos\addingMillions\addingMillions\bin\Debug\addingMillions.exe
+C:\Users\ma hmood\source\repos\addingMillions\addingMillions\bin\Debug\addingMillions.pdb
+C:\Users\ma hmood\source\repos\addingMillions\addingMillions\obj\Debug\addingMillions.csproj.AssemblyReference.cache
+C:\Users\ma hmood\source\repos\addingMillions\addingMillions\obj\Debug\addingMillions.csproj.CoreCompileInputs.cache
+C:\Users\ma hmood\source\repos\addingMillions\addingMillions\obj\Debug\addingMillions.exe
+C:\Users\ma hmood\source\repos\addingMillions\addingMillions\obj\Debug\addingMillions.pdb

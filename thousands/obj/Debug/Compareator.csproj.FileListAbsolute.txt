@@ -1,0 +1,7 @@
+C:\Users\ma hmood\source\repos\Compareator\bin\Debug\Compareator.exe.config
+C:\Users\ma hmood\source\repos\Compareator\bin\Debug\Compareator.exe
+C:\Users\ma hmood\source\repos\Compareator\bin\Debug\Compareator.pdb
+C:\Users\ma hmood\source\repos\Compareator\obj\Debug\Compareator.csproj.AssemblyReference.cache
+C:\Users\ma hmood\source\repos\Compareator\obj\Debug\Compareator.csproj.CoreCompileInputs.cache
+C:\Users\ma hmood\source\repos\Compareator\obj\Debug\Compareator.exe
+C:\Users\ma hmood\source\repos\Compareator\obj\Debug\Compareator.pdb
